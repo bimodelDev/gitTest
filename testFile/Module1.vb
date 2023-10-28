@@ -5,7 +5,7 @@
         End Sub
     End Class
     Sub Main()
-        Dim numerator As Integer = 18
+        Dim numerator As Integer = 15
         Dim Denominator As Integer = 0
         If Denominator = 0 Then
             Throw New ZeroDivisonError()
