@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\testFile"
   ],
-  "SelectedNode": "\\C:\\Users\\bimodel3\\Dropbox\\Family Room\\programming_data\\VB_Projects\\bimodelDev\\gitTest",
+  "SelectedNode": "\\testFile\\Module1.vb",
   "PreviewInSolutionExplorer": false
 }
